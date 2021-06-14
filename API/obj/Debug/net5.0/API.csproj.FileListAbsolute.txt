@@ -58,3 +58,5 @@ C:\Users\Bryce-PC\Desktop\dotnet\Reactivities\API\bin\Debug\net5.0\runtimes\win-
 C:\Users\Bryce-PC\Desktop\dotnet\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Bryce-PC\Desktop\dotnet\Reactivities\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Bryce-PC\Desktop\dotnet\Reactivities\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Bryce-PC\Desktop\dotnet\Reactivities\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bryce-PC\Desktop\dotnet\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
